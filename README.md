@@ -78,4 +78,5 @@ contact-book-api/
 └── README.md
 
 🗺 ERD
-![Contact Book ERD](./contact_book_api/erd.png)
+![ERD Screenshot](contact_book_api/erd.png)
+
