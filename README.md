@@ -74,9 +74,7 @@ contact-book-api/
 │   └── crud.py
 │
 ├── contact_book.sql
+├── erd.png
 ├── requirements.txt
 └── README.md
-
-🗺 ERD
-![ERD Screenshot](contact_book_api/erd.png)
 
