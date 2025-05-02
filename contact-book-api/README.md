@@ -11,7 +11,7 @@ A simple CRUD API for managing contacts and groups using FastAPI + MySQL.
 ## 🛠 Setup Instructions
 
 1. Clone the repo:
-git clone https://github.com/yourusername/contact-book-api.git cd contact-book-api
+git clone https://github.com/Alois117/Week-8-Assignment.git
 
 2. Create and activate a virtual environment:
 python -m venv venv source venv/bin/activate # or venv\Scripts\activate on Windows
